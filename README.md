@@ -1,7 +1,7 @@
 Gadsdencoin Core integration/staging tree
 =====================================
 
-http://www.gadsdencoin.co
+http://www.gadsdencoin.tk
 
 Copyright (c) 2009-2015 Gadsdencoin Core Developers
 

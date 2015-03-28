@@ -15,7 +15,7 @@ out collectively by the network. Gadsdencoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Gadsdencoin Core software, see http://www.gadsdencoin.co
+the Gadsdencoin Core software, see http://www.gadsdencoin.tk
 
 License
 -------
